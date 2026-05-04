@@ -1,7 +1,7 @@
 # gesetzeGL
 Gesetze Rheinstadt
 
-Strafgesetzbuch
+# Strafgesetzbuch
 
 (StGB)
 
@@ -1838,7 +1838,7 @@ Betroffenheit oder Geheimhaltungsbedürftigkeit — nicht als Privatgeheimnisse 
 Gesetzes anzusehen sind.
 
 
-Strafprozessordnung
+# Strafprozessordnung
 
 (StPO)
 Hauptteil
@@ -3888,7 +3888,7 @@ Vereinigung handeln, auch wenn diese in ihrem eigenen Namen handeln.
 Bewusstsein gehandelt haben, so hat er Einspruch einzulegen. Auf den Einspruch ist § 206
 anzuwenden.
 
-Polizeigesetz
+# Polizeigesetz
 
 (PolG)
 Hauptteil
@@ -4582,25 +4582,12 @@ b. wenn durch die Maßnahme die Person oder das Vermögen der geschädigten Pers
 worden ist oder
 c. die Behörde entsprechend Ihrer Befugnisse gehandelt hat.
 
-Polizeidienstvorschrift
+# Polizeidienstvorschrift
 
 POLIZEI
 Rheinstadt
 
 ⚠️ Wichtiger rechtlicher Hinweis:
-
-Dieses Dokument ist rein fiktiv und dient ausschließlich der Darstellung innerhalb einer
-
-Rollenspielumgebung (GTA RP/FiveM).
-
-Es stellt ausdrücklich kein echtes Dokument dar und erhebt keinen Anspruch auf Gültigkeit im
-
-echten Rechtsverkehr oder behördliche Relevanz.
-
-Alle Inhalte sind Teil einer fiktiven Geschichte. Eine reale Nutzung ist ausgeschlossen und soll keine
-
-Fälschung oder Irreführung darstellen und verfolgt keinerlei Absicht, reale
-Behörden zu imitieren oder zu täuschen. Es dient einem Videospiel!
 
 Dieses Dokument ist die Polizeidienstvorschrift der Polizei Rheinstadt. Die Weitergabe
 oder Veröffentlichung ist untersagt und wird strafrechtlich geahndet.
@@ -5442,9 +5429,6 @@ Abweichungen können jederzeit stattfinden. Daher auch Idealtyp.
 
 Als Mitglied des (erweiterten) Leitungsstabes ist man unabhängig von Rang oder Position
 allen Beamten vorgesetzt, wobei der Leitungsstab dies in besonderem Sinne ist.
-Dies ist kein offizielles Dokument einer Behörde oder kommt damit in Verbindung, es dient ausschließlich einem
-
-Videospiel und ist kein echtes Dokument!
 
 Version 2.2 L.Bern/J.Schröder/P.Steif 19.01.2026
 
@@ -5452,7 +5436,7 @@ Peter Steif
 Der Polizeipräsident
 Version 2.2 L.Bern/J.Schröder/P.Steif 19.01.2026
 
-Landesbeamtengesetz
+# Landesbeamtengesetz
 
 (LBG)
 
@@ -5632,7 +5616,7 @@ Höhe von 25.000€ aufzuerlegen, die von ihre selbst zu tragen ist.
 Vorteilen
 Die Beamte dürfen keine Belohnungen, Geschenke oder sonstige Vorteile annehmen.
 
-Justizgesetz
+# Justizgesetz
 
 (JusG)
 Hauptteil
@@ -6643,7 +6627,7 @@ Ausschüttungen aus der Insolvenzmasse werden wie folgt verteilt:
 
 Nach Abschluss des Insolvenzverfahrens gelten alle etwaigen Forderungen der Gläubiger als getilgt.
 
-Gesetz über Ordnungswidrigkeiten
+# Gesetz über Ordnungswidrigkeiten
 
 (OWiG)
 Begrifflichkeiten
@@ -7439,9 +7423,7 @@ sofern die Tat nicht durch andere Gesetze mit Strafe bedroht wird.
 Waffenbehörde zu melden, sobald die Person eine Waffenbesitzkarte hat.
 (6) Die Waffenbesitzkarte kann durch die Waffenbehörde deshalb entzogen werden.
 
-Gesetz über den Brandschutz, die
-Hilfeleistung, den Rettungsdienst und
-den Katastrophenschutz NRW
+# Gesetz über den Brandschutz, die Hilfeleistung, den Rettungsdienst und den Katastrophenschutz NRW
 
 (BHRKG)
 
@@ -8119,7 +8101,7 @@ die Strafe vom Gericht direkt festgesetzt werden. Sie ist nach der Festsetzung v
 
 Die Gerichtssprache ist deutsch.
 
-Gebührenordnung
+# Gebührenordnung
 
 der Justiz Rheinstadt
 Hauptteil
@@ -8323,7 +8305,7 @@ Vergütungspflichtig für jenen Leistungserbringer, welcher im Rahmen einer Tät
 & 53 StPO für eine daraus resultierende Verhandlung vor dem Amtsgericht eine
 Sachverständigentätigkeit ausübt.
 
-Familiengestaltungsverordnung
+# Familiengestaltungsverordnung
 
 (FamGVO)
 Ehe
@@ -8587,7 +8569,7 @@ Testaments sicherstellt.
 (2) Der Testamentsvollstrecker hat die Pflicht, den letzten Willen des Erblassers gemäß den
 gesetzlichen Bestimmungen umzusetzen.
 
-Bürgerliches Gesetzbuch
+# Bürgerliches Gesetzbuch
 
 (BGB)
 
@@ -9286,7 +9268,7 @@ ohne Verschulden möglich, so tritt die Ersatzpflicht nur im Falle des Verschuld
 Der zustehende Schadensersatz hat sich am tatsächlich erlittenen Schaden sowie an den
 Vermögenswerten beider Parteien zu richten.
 
-Betäubungsmittelgesetz
+# Betäubungsmittelgesetz
 
 (BtMG)
 Hauptteil
@@ -9391,7 +9373,7 @@ Anlage 1
 Betäubungsmittel im Sinne dieser Rechtsordnung sind, gelistet in der BTMG Tabelle!
 und alle daraus entstandenen Formen und Produkte.
 
-Waffengesetz
+# Waffengesetz
 
 (WaffG)
 Hauptteil
@@ -11003,8 +10985,7 @@ Sachen
 Hat der Schuldner eine bewegliche Sache oder eine Menge bestimmter beweglicher Sachen herauszugeben, so
 sind sie von dem Gerichtsvollzieher ihm wegzunehmen und dem Gläubiger zu übergeben.
 
-Verwaltungsvorschrift über die Leitung der
-Sicherungsgruppe Landtag
+# Verwaltungsvorschrift über die Leitung der Sicherungsgruppe Landtag
 § 1 Grundlage
 Diese Verwaltungsvorschrift ergeht auf Grundlage des § 1a PolG.
 § 2 Übertragung der Leitung
@@ -11629,8 +11610,7 @@ angefochtenen Entscheidung.
 Entscheidungen des Berufungsgerichts sind bindend und es können keine Rechtsmittel
 dagegen eingebracht werden.
 
-Versammlungs- und
-Veranstaltungsgesetz
+# Versammlungs- und Veranstaltungsgesetz
 
 (VVG)
 
@@ -11919,7 +11899,7 @@ Geldstrafe bestraft.
 Die in Rheinstadt für Versammlungen und Veranstaltungen im Sinne dieser Rechtsordnung
 zuständige Behörde ist die Stadtverwaltung.
 
-Titelverordnung
+# Titelverordnung
 
 (TVO)
 Hauptteil
@@ -12146,7 +12126,7 @@ d. Technische Inhalte allgemein Berufsfeuerwehr Rheinstadt
 e. Technische Inhalte Kraftfahrzeuge
 
 
-Straßenverkehrszulassungsordnung
+# Straßenverkehrszulassungsordnung
 
 (StVZO)
 Hauptteil
@@ -12448,7 +12428,7 @@ a. Dodge Ram 2500
 b. Ford Raptor
 c. Mercedes-Benz X-Class
 
-Straßenverkehrsordnung
+# Straßenverkehrsordnung
 
 (StVO)
 Beinhaltet auch Teile der
@@ -12464,7 +12444,7 @@ Seeverkehrs-Ordnung
 
 Teil I
 
-Straßenverkehrsordnung
+# Straßenverkehrsordnung
 
 § 1 Grundregeln
 
@@ -13145,7 +13125,7 @@ Taxi Parkplätze beeinträchtigt.
 
 Teil II
 
-Luftverkehrsordnung
+# Luftverkehrsordnung
 
 (LuftVO)
 
@@ -13314,7 +13294,7 @@ Einsätze zur Bekämpfung einer Feuersbrunst und der dringlichen Pannenhilfe.
 
 Teil III
 
-Seestraßen-Verkehrsordnung
+# Seestraßen-Verkehrsordnung
 
 (SeeVO)
 
@@ -13427,3 +13407,1554 @@ hoheitlicher Aufgaben notwendig ist. Hoheitliche Aufgaben im Sinne dieser Verord
 Rettungseinsätze, Einsätze der Landespolizei NRW sowie Einsätze zur Bekämpfung einer
 Feuersbrunst sowie zur Havariebehebung.
 
+
+# Einsatzrechtslehre
+
+## Polizei Rheinstadt
+
+---
+
+# Inhaltsverzeichnis
+
+## Polizeiliche Lagen / Raube
+
+* Einsatzleitung
+* Verhandlungsführung
+* Absperrungen
+* Geiseln
+* Verfolgung
+* Forderungen
+
+## Abhandlung
+
+* Konkrete Nutzung des Beweisarchivs
+* Transport Klinikum & Dienststelle
+
+## Rechtslehre
+
+* Anruf StA
+* Rechtslehre
+
+  * Definition Tatverdacht
+  * U-Haft & vorläufige Festnahme
+  * Wann Festnahme?
+
+---
+
+# Polizeiliche Lagen / Raube – Einsatzleitung
+
+* Die ersteintreffende Streife muss verpflichtend die EL, also Einsatzleitung, übernehmen, ab 2 Streifen.
+
+  * Wenn ein Beamter des gehobenen Dienstes dazukommt, nimmt dieser die EL ab.
+* Die Einsatzleitung trägt die Verantwortung für alle PVB, Geiseln und Zivilisten.
+* Sie bestimmt das Auftreten der Verhandlungsführung und welche Forderungen angenommen beziehungsweise abgelehnt werden.
+* Die EL ist für Koordination und Ordnung am Einsatzort zuständig:
+
+  * Funkwechsel bei großer Lage
+  * konkrete Fahrzeugaufstellung und Zuteilung der PVB
+  * Zuordnung der Beamten zu Aufgaben
+  * Einteilung von Berufsfeuerwehr oder anderen unterstützenden Behörden
+  * gegebenenfalls Delegation dieser zu erfüllenden Aufgaben
+  * Einsatzbericht schreiben am Einsatzende zur Situation
+
+    * Um die Tatverdächtigen kümmern sich die anderen Streifen mit einem Festnahmebericht.
+* Die EL kann bei Bedarf an Führungspositionen abgegeben, von diesen unterstützt oder übernommen werden.
+
+---
+
+# Polizeiliche Lagen / Raube – Verhandlungsführung
+
+* Wenn eine EL gebildet wurde, muss verpflichtend eine VF, also Verhandlungsführung, übernommen werden, die mit den Tatverdächtigen das Gespräch aufnimmt.
+* VF und EL sollten für beste Absprache zusammenstehen.
+* Mit Tatverdächtigen über Aufgabe verhandeln.
+
+Sollten Geiseln vorhanden sein, gilt Weiteres:
+
+* Im Austausch mit Geiselnehmern sollte ein entspannter, aber professioneller und respektvoller Ton herrschen.
+* VF kann bei Bedarf an Führungspositionen abgegeben, von diesen unterstützt oder übernommen werden.
+* Als VF positioniert man sich maximal hinter dem Motorblock des FuStW, niemals offen ohne Deckung.
+* Geiseln sind kein Freifahrtsschein.
+
+---
+
+# Polizeiliche Lagen / Raube – Absperrungen
+
+* Absperrungen sind unmittelbar nach Eintreffen der Polizei aufzubauen, falls möglich.
+* Absperrungen sind individuell und kreativ aufzubauen, müssen aber aus folgenden Mitteln bestehen können:
+
+  * Nagelbänder
+  * Warnleuchten
+  * Hütchen
+  * Barrikaden
+  * Streifenwagen
+* Absperrungen haben das Ziel, die Bevölkerung von außen vor dem Einsatz zu schützen, die Flucht der Täter zu verhindern und die eigenen Kräfte von außen zu schützen.
+* Nagelbänder sind bei Kriminellen unbeliebt und sollten daher vermehrt gelegt werden.
+* Es gilt: Je mehr Absperrungen, desto mehr Handlungsspielraum bei Geiselbefreiung. Also möglichst viele aufbauen.
+* Die meiste Effektivität liegt bei Nagelbändern zur Verhinderung der Flucht.
+* Wenn möglich, sollte es einen äußeren Absperrring geben zum Schutz der Bevölkerung und des Einsatzes sowie einen inneren Absperrring zur Fluchtverhinderung.
+
+---
+
+# Polizeiliche Lagen / Raube – Geiseln
+
+* Bei jeder polizeilichen Lage hat der Schutz des Lebens von Unbeteiligten und einem selbst oberste Priorität. Auch die Unversehrtheit der Geiseln hat oberste Priorität.
+* Ab Beginn der Verhandlung sind sich alle Geiseln zeigen zu lassen. Folgende Punkte sind mit der Geisel zu besprechen:
+
+  * Name der Geisel, gegebenenfalls mitschreiben
+  * Unversehrtheit der Geisel, medizinische oder psychische Hilfe?
+  * Hunger und Durst?
+  * Menschenwürdiger Umgang der Geiselnehmer?
+* Geiseln mit schlechtem Zustand, Kollegen oder Ähnliche sind gegebenenfalls als Erstes zu befreien.
+* Eine Einheit wird mit der Entgegennahme der Geiseln beauftragt. Diese:
+
+  * sendet ein Bild der Geisel mit Ausweis in das Beweisarchiv, mit Beschriftung „Geisel (Bank)Raub“ im entsprechenden Thread
+  * schreibt eine Aussage der Geisel beziehungsweise Zeugen dazu: Wurde etwas gestohlen? Wie wurde sie entführt?
+  * übergibt die Geisel gegebenenfalls an den Rettungsdienst
+  * entlässt die Geisel
+
+---
+
+# Polizeiliche Lagen / Raube – Verfolgungen
+
+* Bei Verfolgung ist auf Koordination zu achten.
+* Die EL hat die Einheiten den zu verfolgenden Fahrzeugen zuzuordnen.
+* Verschiedene Verfolgungen sind verschiedenen Funkkanälen zuzuordnen.
+* Die EL verbleibt nach Flucht der Tatverdächtigen am Einsatzort, sichert das Gebäude und übernimmt die letzte Geisel.
+
+  * Danach schreibt diese einen detaillierten Einsatzbericht, was vor Ort passiert ist, in Ich-Perspektive, mit allen Personalien der Zeugen und deren kurzen Aussagen. Das ist für die weitere Strafverfolgung und Überführung der Täter essenziell. Es muss zweifelsfrei erkennbar sein, welche Straftaten die Täter wie begangen haben.
+  * Danach steht die EL für Rückfragen der anderen Streifen zur Verfügung. Festnahmeberichte, was bei der Verfolgung noch passiert ist und Abhandlung übernehmen die festnehmenden Streifen auf Grundlage des Einsatzberichts.
+  * Das heißt: Die festnehmenden Streifen machen Copy-Paste der Zeugenaussagen und des Berichts vom Einsatz und schreiben dann noch dazu, was bei der Verfolgung bis zur Festnahme passiert ist.
+* Bei Geländefahrzeugen der Tatverdächtigen sind ebenfalls Geländefahrzeuge der Polizei anzufordern.
+* Weiteres zu Verfolgungen wird in „Fahrzeuglehre“ gelehrt.
+
+---
+
+# Polizeiliche Lagen / Raube – Forderungen
+
+* Forderungen sind nie direkt zu beneinen, sondern abgerundet zu beantworten.
+
+  * Beispiel: „Sie bauen alle Absperrungen ab.“
+  * Antwort: „Ich mache ein Gegenangebot. Wir bauen 2 Absperrungen ab.“
+  * Beispiel: „Hubschrauber fliegt zum anderen Ende der Stadt.“
+  * Antwort: „Hubschrauber fliegt zur Stadtmitte.“
+* Je mehr Utensilien, desto größer der Handlungsraum:
+
+  * mehr Absperrungen = mehr Geiseln, die man durch Abbau bekommt
+  * Hummel und Drohne = mehr Geiseln, die man durch Abzug bekommt
+  * SEK in Sonderstellung = mehr Geiseln, die man durch Vorziehen bekommt
+  * sehr starke Streifenwagen in Fluchtrichtung aufgestellt = mehr Geiseln, die man durch Umstellen bekommt
+
+---
+
+# Abhandlung – Beweisarchiv
+
+* Das Beweisarchiv ist ein Sammelort.
+* Dort wird bei einem Einsatz ein Thread erstellt, zum Beispiel „Bankraub 4024 vom 20.02.“
+* Alle möglichen Beweise können dann in diesem Thread sichergestellt werden.
+* Wird ein Tatverdächtiger festgesetzt, ist seine Identität mit Bild von ihm per Foto in das Archiv einzusenden. Die EL kann diese dann einfach von dort entnehmen, ohne alles doppelt zu machen.
+* Uhrzeiten für Belehrungen, Schmauchspurentest oder Ähnliches können hier dokumentiert werden. Das ist später wichtig für die Aktenarbeit.
+
+Ausbilderhinweis: Hier Beweisarchiv zeigen und erläutern.
+
+---
+
+# Abhandlung – Transport Klinikum & Dienststelle
+
+* Muss ein Tatverdächtiger in ein Klinikum verlegt werden, muss er durch eine Einheit begleitet werden, vorzugsweise durch die festnehmende Streife.
+* Nach Klinikumaufenthalt ist dieser in die Dienststelle zu verbringen.
+* Falls möglich, kann bereits die Identität festgestellt und ein Schmauchspurentest gemacht werden.
+
+---
+
+# Rechtslehre – Anruf StA
+
+* Die Staatsanwaltschaft ist über jede Strafmittlung, also Aufnahme eines Strafverfahrens, Festnahme etc., zu informieren gemäß § 115 StPO, da diese Herrin des Ermittlungsverfahrens ist.
+* Bei Maßnahmen, die kein Strafverfahren beinhalten, ist die Staatsanwaltschaft nicht zu informieren.
+
+---
+
+# Definition Tatverdacht
+
+Was ist überhaupt ein dringender Tatverdacht? Es existieren 3 Stufen des Tatverdachts im deutschen Strafrecht.
+
+## 1. Anfangsverdacht
+
+Es liegen konkrete Anhaltspunkte vor, dass eine Straftat begangen wurde, zum Beispiel Zeugenaussage.
+
+Folge: Ermittlungen dürfen starten.
+
+## 2. Hinreichender Tatverdacht
+
+Es besteht eine überwiegende Wahrscheinlichkeit, also Verurteilungswahrscheinlichkeit, dass der Beschuldigte die Tat begangen hat. Die Beweise reichen aus, um vor Gericht zu gehen und eine Verurteilung überwiegend wahrscheinlich zu erreichen.
+
+Folge: Anklage darf erhoben werden. Relevant für die Staatsanwaltschaft.
+
+## 3. Dringender Tatverdacht
+
+Wird im laufenden Ermittlungsverfahren jederzeit geprüft. Es besteht eine hohe Wahrscheinlichkeit, dass der Beschuldigte an einer konkreten Straftat beteiligt war, zum Beispiel weil Beweismittel gefunden wurden.
+
+Folge: Voraussetzung für Zwangsmaßnahmen wie Untersuchungshaft oder vorläufige Festnahme.
+
+---
+
+# U-Haft und vorläufige Festnahme
+
+## § 72 StPO – Voraussetzungen der Untersuchungshaft; Haftgründe
+
+Die Untersuchungshaft darf gegen den Beschuldigten angeordnet werden, wenn er der Tat dringend verdächtig ist und ein Haftgrund besteht. Sie darf nicht angeordnet werden, wenn sie zu der Bedeutung der Sache und der zu erwartenden Strafe oder Maßregel der Besserung und Sicherung außer Verhältnis steht.
+
+Ein Haftgrund besteht, wenn aufgrund bestimmter Tatsachen:
+
+* festgestellt wird, dass der Beschuldigte flüchtig ist oder sich verborgen hält,
+* bei Würdigung der Umstände des Einzelfalles die Gefahr besteht, dass der Beschuldigte sich dem Strafverfahren entziehen werde, also Fluchtgefahr,
+* das Verhalten des Beschuldigten den dringenden Verdacht begründet, er werde:
+
+  1. Beweismittel vernichten, verändern, beiseiteschaffen, unterdrücken oder fälschen,
+  2. auf Mitbeschuldigte, Zeugen oder Sachverständige in unlauterer Weise einwirken,
+  3. andere zu solchem Verhalten veranlassen,
+
+und wenn deshalb die Gefahr droht, dass die Ermittlung der Wahrheit erschwert werde, also Verdunkelungsgefahr.
+
+Absatz 3 findet keine Anwendung.
+
+---
+
+# U-Haft und vorläufige Festnahme
+
+## § 83 StPO – Vorläufige Festnahme
+
+Wird jemand auf frischer Tat betroffen oder verfolgt, so ist, wenn er der Flucht verdächtig ist oder seine Identität nicht sofort festgestellt werden kann, jedermann befugt, ihn auch ohne richterliche Anordnung vorläufig festzunehmen. Die Feststellung der Identität einer Person durch die Staatsanwaltschaft oder die Beamten des Polizeidienstes bestimmt sich nach § 117.
+
+Die Staatsanwaltschaft und die Beamten des Polizeidienstes sind bei Gefahr im Verzug auch dann zur vorläufigen Festnahme befugt, wenn die Voraussetzungen eines Haftbefehls vorliegen: dringender Tatverdacht und Haftgrund.
+
+Das ist die Festnahme, die Sie kennen und auf die wir alles stützen. Bis zur Identitätsfeststellung darf eine Person unter den Voraussetzungen des Absatz 1 vorläufig festgenommen werden. Sobald das geschehen ist, greift Absatz 1 nicht mehr. Dann muss für eine Festnahme zwingend ein dringender Tatverdacht und ein Haftgrund vorliegen. Die Schwere der Tat ist dabei nicht entscheidend. Der Haftgrund muss an tatsächlichen Anhaltspunkten begründbar sein. Wenn es keinen Haftgrund gibt, wird eine Anzeige geschrieben und die Person nur zur ED mitgenommen und dann entlassen.
+
+Wichtig: Sie dürfen einen Beschuldigten nur vorläufig festnehmen und dann gegebenenfalls in Untersuchungshaft eigenständig überführen, wenn die Voraussetzungen dafür erfüllt sind. Das ist in jedem Einzelfall zu prüfen.
+
+---
+
+# Wann Festnahme?
+
+Wann dürfen Sie also eine vorläufige Festnahme durchführen? Was müssen Sie prüfen?
+
+## Beispiel 1
+
+Ein Tatverdächtiger liefert sich eine Schlägerei am Klinikum und beklaut einen Passanten mit der verbalen Drohung über noch mehr Gewalt. Das berichten Zeugen. Ebenfalls ist der Tatverdächtige mit Blut beschmiert.
+
+Bewertung: Raub und Körperverletzung. Dringender Tatverdacht ist gegeben wegen der Zeugen und dem Blut an seiner Kleidung.
+
+Der Tatverdächtige bleibt beim Eintreffen der Polizei vor Ort und stellt seinen Ausweis zur Verfügung. Er beruft sich auf sein Recht, nichts auszusagen. Er stört nicht übermäßig und es gibt keine Anhaltspunkte, dass er Beweise vernichten will, auf Zeugen einwirken möchte oder sich dem Strafverfahren entziehen will.
+
+Bewertung: Kein Haftgrund vorhanden. Somit erfolgt die Anzeigenaufnahme vor Ort und er kann nach der Belehrung entlassen werden. Höchstens Mitnahme wegen ED.
+
+Wenn er seinen Ausweis nicht zeigen möchte oder keinen dabei hat, wird die Person gemäß § 117 Abs. 1 festgehalten und mit auf die Wache genommen, bis die Identität festgestellt wurde. Sobald das geschehen ist, muss er wieder entlassen werden.
+
+## Beispiel 2
+
+Ein Tatverdächtiger bedroht einen Passanten am Würfelpark mit dem Tod, schlägt auf ihn ein und klaut das Fahrzeug des Geschädigten. Beim Eintreffen der Polizei fährt er davon und liefert sich eine Verfolgungsfahrt.
+
+Bewertung: Bedrohung, Körperverletzung und unberechtigter Gebrauch eines Kfz oder Diebstahl, gegebenenfalls Gefährdung des Straßenverkehrs. Dringender Tatverdacht ist gegeben wegen der Zeugen und der Flucht.
+
+Bewertung: Haftgrund ist vorhanden, flüchtig beziehungsweise Fluchtgefahr. Somit vorläufige Festnahme und dann weiter verfahren wie in den Folien beschrieben.
+
+---
+
+# Untersuchungshaft
+
+## Anwendung § 209 Abs. 1 StPO – Was muss vorliegen?
+
+1. Die Person muss gemäß § 83 Abs. 2 vorläufig festgenommen sein. Es müssen also dringender Tatverdacht und Haftgrund vorliegen. Das heißt: Es müssen Gründe bestehen, dass sie nach einer Identitätsfeststellung und ED-Behandlung immer noch festgehalten werden darf.
+2. Kein Staatsanwalt verfügbar oder mit diesem abgesprochen.
+
+Dann darf die Person für 30 Minuten in U-Haft überführt werden. Dies findet in Zellen der Polizei statt, über das Gefängnistablet.
+
+---
+
+# Untersuchungshaft
+
+## Anwendung § 209 Abs. 2 StPO – Was muss vorliegen?
+
+1. Straftat gemäß besonders schwerem Raub, Geiselnahme oder erpresserischem Menschenraub.
+2. Täter muss auf frischer Tat ertappt und bis zur Festnahme permanent im Blick der Vollstreckungsbehörden gewesen sein.
+3. Die Staatsanwaltschaft ist nicht verfügbar oder die Anwendung des Paragrafen ist mit der Staatsanwaltschaft abgesprochen.
+
+Für jede einzelne in Punkt 1 aufgeführte Tat darf die Untersuchungshaft für bis zu 60 Hafteinheiten durch die Polizei eigenständig angeordnet werden. Dabei darf der Vorwurf der Geiselnahme nicht zusammen mit dem Vorwurf des erpresserischen Menschenraubes erhoben werden.
+
+Das bedeutet eine maximale Untersuchungshaftdauer von 120 Hafteinheiten.
+
+Beispiel: Besonders schwerer Raub in Verbindung mit Geiselnahme: 60 + 60.
+
+---
+
+Wichtiger Hinweis:
+
+Sollten rechtliche oder einsatztaktische Fragen entstehen, wenden Sie sich jederzeit an Beamte des gehobenen Dienstes. Sie als ausführender, ausgebildeter Beamter sind später für Ihre Handlungen selbst verantwortlich. Fragen Sie bei Unsicherheiten besser einmal nach.
+
+
+# Leitstellenausbildung Polizei
+
+---
+
+# Leitstellenausbildung
+
+## Polizei Rheinstadt
+
+---
+
+# Inhaltsverzeichnis
+
+## Calltaker
+
+➤ Aufgaben und Wichtiges
+
+## Notruf
+
+➤ Notrufgespräch
+➤ Bearbeitung
+➤ Einsatzstichwörter
+➤ Einsatz weiterleiten
+
+## Statusmeldungen
+
+➤ Allgemein
+
+## Leitstelle
+
+➤ Funktionen: Kategorien
+➤ Funktionen: Lage & Bezeichnungen
+➤ Funktionen: Einheiten
+➤ Statusmeldungen
+➤ SDS-Nachricht an Einheiten
+
+---
+
+# Aufgaben & Wichtiges
+
+## Aufgaben
+
+➤ Notrufe entgegennehmen
+➤ Einsätze disponieren
+➤ Empfang besetzen – Klingeln annehmen
+➤ Beschlagnahmungshof bearbeiten, Fahrzeuge ausparken
+➤ Streifeneinteilung
+  ▪ Gefährdungsstufe beachten
+
+## Wichtiges
+
+➤ Die Leitstelle ist immer zu besetzen. Ab dem ersten Beamten im Dienst.
+➤ Der Calltaker verbleibt im Präsidium.
+➤ Notrufe und Amtsanrufe sind umgehend entgegenzunehmen.
+➤ Zeit vor der Tür auf das Minimalste reduzieren.
+➤ Notrufe so kurz wie möglich halten, um die Notrufleitung nicht zu blockieren.
+➤ Jeder Einsatz ist ernst zu nehmen.
+
+---
+
+# Notrufgespräch
+
+## Notrufannahme
+
+➤ „Polizei Notruf, wie können wir helfen?“
+
+▪ Dieser Satz ist immer der erste Satz, mit dem der Notruf entgegengenommen wird.
+▪ Erfragen, was vor Ort los ist. Kurzbeschreibung des Einsatzes feststellen.
+
+➤ Gibt es Verletzte?
+
+Falls erforderlich, nach dem Notruf Rettungsdienst informieren für Bereitstellung.
+
+➤ Individualisierte Rückfragen stellen.
+
+Beispiele:
+
+▪ Wie viele Täter?
+▪ Fluchtfahrzeug?
+▪ In welche Richtung?
+▪ Waffen?
+▪ Geiseln?
+
+## Parallel
+
+➤ Streifen- / Einheitenzuteilung
+
+▪ Je nach Einsatzlage und Notwendigkeit Einheiten zu dem gemeldeten Standort zuteilen.
+
+---
+
+# Bearbeitung
+
+Folgende Felder müssen bei der Einsatzbearbeitung mindestens ausgefüllt werden:
+
+| Feld                      | Pflichtfeld                        |
+| ------------------------- | ---------------------------------- |
+| Melder                    | Ja                                 |
+| Telefonnummer automatisch | Nein / wird automatisch übernommen |
+| Postleitzahl automatisch  | Nein / wird automatisch übernommen |
+| Meldung des Anrufers      | Ja                                 |
+| Einsatzstichwort          | Ja                                 |
+| Einsatzmeldung            | Ja                                 |
+
+Hinweis:
+
+`* = Muss mindestens ausgefüllt werden.`
+
+## Buttons / Funktionen
+
+| Symbol | Bedeutung                             |
+| ------ | ------------------------------------- |
+| ➕      | Einsatz erstellen / selbst alarmieren |
+| 🔔     | Einsatz erstellen / Meldestempel      |
+
+---
+
+# Einsatzstichwörter
+
+| Stichwort          | Definition                                                            |
+| ------------------ | --------------------------------------------------------------------- |
+| Zuarbeit           | Kollegen / Organisationen unterstützen                                |
+| Ersuchen           | Person benötigt passiv polizeiliche Hilfe                             |
+| Gefahrenabwehr     | Person / Gegenstand benötigt aktiv polizeiliche Hilfe                 |
+| Leichensache       | Fund einer Leiche → Kriminalpolizei                                   |
+| Ordnungswidrigkeit | Vorgänge mit einer Ordnungswidrigkeit                                 |
+| Straftat           | Vorgänge mit einer Straftat                                           |
+| Verkehrsdelikt     | Vorgänge mit fließendem und ruhigem Verkehr                           |
+| Verkehrsunfall     | Schadensereignis mit ursächlicher Beteiligung von Verkehrsteilnehmern |
+
+---
+
+# Einsatz weiterleiten
+
+## Weiterleitung von Einsätzen
+
+1. Einsatz bearbeiten.
+2. Auswahl über Telefon-Symbol.
+3. Sicherheitsorganisation auswählen.
+4. Einsatz weiterleiten und direkter Anruf.
+
+## Schritte mit Symbolen
+
+| Schritt    | Aktion                            | Symbol / Hinweis                  |
+| ---------- | --------------------------------- | --------------------------------- |
+| 1. Schritt | Einsatz bearbeiten                | ✏️ Bearbeiten-Symbol              |
+| 2. Schritt | Telefon-Symbol auswählen          | 📞                                |
+| 3. Schritt | Sicherheitsorganisation auswählen | 📞 neben Organisation             |
+| 4. Schritt | Weiterleitung / Anruf läuft       | Anzeige: „Justiz wird angerufen!“ |
+
+---
+
+# Funktionen
+
+## Kategorien
+
+| Funktion                        | Bedeutung                                              |
+| ------------------------------- | ------------------------------------------------------ |
+| 🏠 Einsatzliste                 | Offene / bearbeitete Einsätze                          |
+| ➕ Einsatz erstellen             | Manuell Einsätze erstellen                             |
+| 🗃️ Einsatzarchiv               | Archivierte Einsätze                                   |
+| 📋 Statusübersicht              | Status aller Streifen                                  |
+| 💬 SDS-Nachrichten              | Nachrichten an bestimmte und / oder alle Einheiten     |
+| 🪪 Ehrenamtliche Organisationen | Bereich für ehrenamtliche Organisationen               |
+| 🗺️ Leitstellenkarte            | Überblick über alle Fahrzeuge auf der Karte / Standort |
+
+---
+
+# Funktionen
+
+## Lage & Bezeichnungen
+
+## Bezeichnungen
+
+| Bezeichnung                         | Bedeutung                                                            |
+| ----------------------------------- | -------------------------------------------------------------------- |
+| ELP                                 | Einsatzleitplatz                                                     |
+| Call Taker                          | Nimmt Notrufe entgegen                                               |
+| Lagedienst                          | Bei Großlagen für Lagemeldungen und Informationsversorgung zuständig |
+| Beamte                              | Calltaker                                                            |
+| Einsatzsachbearbeiter               | ELP                                                                  |
+| Leitstellenleitung & Führungsdienst | Lagedienst                                                           |
+
+## Statussymbole
+
+| Symbol | Bedeutung              |
+| ------ | ---------------------- |
+| ✅      | Einsatzbereit          |
+| ☕      | Pause                  |
+| 💬     | Nicht erreichbar       |
+| ℹ️     | Benötigt Unterstützung |
+
+## Telefonbedienung
+
+| Symbol           | Bedeutung     |
+| ---------------- | ------------- |
+| ⏸️               | Warteschleife |
+| 📵 / roter Hörer | Auflegen      |
+| ➡️               | Weiterleiten  |
+
+---
+
+# Funktionen
+
+## Einheiten
+
+## Funktionen für Einheiten
+
+| Funktion               | Bedeutung                                                               |
+| ---------------------- | ----------------------------------------------------------------------- |
+| 🔔 Aktueller Einsatz   | Zugeordneter Einsatz wird angezeigt                                     |
+| 📍 Einsatz am Standort | Einsatz am aktuellen Standort der Einheit erstellen, Standort ermitteln |
+| 📞 Einzelruf starten   | Einheiten direkt per Draht anrufen                                      |
+| ☕ Status und Pause     | Status der Einheit ermitteln, Pause erstellen                           |
+
+---
+
+# Leitstelle – Statusmeldungen
+
+## Ablauf
+
+1. Bei der gewünschten Einheit auf „Status und Pause“ klicken.
+2. Statusmeldung auswählen.
+
+## Statusmeldungen
+
+| Status | Meldung                           |
+| ------ | --------------------------------- |
+| ?      | LST-Status zurücksetzen           |
+| C      | Melden! Einsatz                   |
+| E      | Vom zugeteilten Einsatz entlassen |
+| F      | Telefon, über Draht melden        |
+| H      | Zur Wache                         |
+| J      | Sprechaufforderung                |
+| L      | Abfrage Lagemeldung               |
+| c      | Abfrage Statusmeldung             |
+
+---
+
+# SDS-Nachricht an Einheit
+
+Digitale Nachricht an eine bestimmte Einheit über Funkgerät und / oder Melder.
+
+## Ablauf
+
+1. SDS-Nachrichten öffnen.
+2. Nachricht eingeben.
+3. Einheit auswählen.
+4. Gewünschte Übertragungsmethode drücken: Funkgerät oder Melder.
+
+## Bereiche / Symbole
+
+| Bereich / Symbol   | Bedeutung                                        |
+| ------------------ | ------------------------------------------------ |
+| 💬 SDS-Nachrichten | Funktion öffnen                                  |
+| Nachrichtenfeld    | Nachrichtentext eingeben                         |
+| Einheitenauswahl   | Gewünschte Einheit oder alle Fahrzeuge auswählen |
+| 📻 Funkgerät       | Nachricht per Funkgerät senden                   |
+| 📟 Melder          | Nachricht per Melder senden                      |
+
+Hinweis aus der Folie:
+
+Gewünschte Nachricht eingeben und auf die gewünschte Übertragungsmethode, also Funkgerät oder Melder, drücken.
+
+Zum Abschluss: Auf „SDS Nachricht senden“ drücken.
+
+Hier ist Teil 1 sauber rekonstruiert, logisch sortiert und mit einem Cut am Ende. Der Cut ist so gesetzt, dass die nächsten 14 Folien direkt mit weiteren Einsatzlehre-Themen anschließen können.
+
+---
+
+# Grundausbildung
+
+## Polizei Rheinstadt
+
+---
+
+# Inhaltsverzeichnis
+
+## Zur Polizei Rheinstadt
+
+* Vorab-Info
+* Polizeidienstvorschrift
+* Organigramm
+* Führungsdienst
+* Eid
+* Ablauf der Ausbildung
+
+## Rechtswissen
+
+* Strafrecht
+* Waffenrecht
+* Eingriffsrecht
+* Strafprozessordnung
+* Belehrung
+* Polizeigesetz
+
+## Einsatzlehre
+
+* Bedrohliche Einsatzsituationen
+* Kontrolle
+* Identitätsfeststellung
+* Aussagenaufnahme
+* Schusswaffengebrauch
+* Umgang mit Schusswaffen
+
+## Einsatzmittel
+
+* Einsatzmittel
+* Dienstausstattung
+
+## Dokumentation
+
+* Aktenarbeit
+* Asservaten
+
+## Funk-Grundlagen
+
+* Statusmeldung
+* Grundlagen
+* Funkgespräch
+* Funkrufnamen
+* Ab wann darf ich funken?
+
+---
+
+# Vorab-Info
+
+Jegliche Ausbildungsinhalte, die Sie in Ihrer Anwärterschaft durchlaufen, sind geistiges Eigentum der Ausbildungsabteilung der Polizei Rheinstadt und dürfen nicht fotografiert werden.
+
+Zuwiderhandlungen werden strafrechtlich und mit einer sofortigen Kündigung geahndet.
+
+Lediglich Folien, die mit einem roten Stern `*` markiert sind, dürfen fotografiert werden.
+
+**Sie müssen Ihre Ausbildung innerhalb von 6 Wochen absolviert haben.**
+
+Urlaub wird angerechnet. Sollte er länger als 3 Tage sein, muss er bei der Personalabteilung und der Ausbildungsleitung angemeldet werden.
+
+---
+
+# Polizeidienstvorschrift
+
+Die Polizeidienstvorschrift bildet die Grundlagen für den Polizeivollzugsdienst. Sie sind unabhängig vom Dienstgrad anzuwenden und dürfen nicht außer Acht gelassen werden.
+
+In der Laufbahnprüfung werden Inhalte der PDV abgefragt. Daher sind Sie dazu verpflichtet, die grundlegenden Inhalte der PDV zu verinnerlichen.
+
+Die PDV ist unter `#pdv` im D-Funk einsehbar.
+
+---
+
+# Organigramm
+
+Hinweis auf der Folie: **Vertraulich behandeln!**
+
+## Führungsdienst
+
+| Funktion       | Personen                                                                                |
+| -------------- | --------------------------------------------------------------------------------------- |
+| Führungsdienst | Peter Steif (PP), Max Bäcker (PVP), Max Weser (PL/PVP), Thorsten Backhaus (LAFP/DBP B2) |
+
+## Direktionsleitungen
+
+| Bereich                                | Personen                                                                |
+| -------------------------------------- | ----------------------------------------------------------------------- |
+| Dienstgruppenleitung der Direktion G/E | John Cooper (PRA), Dr. Felix Kontrast M.Sc. (PHK A12), Justin King (PK) |
+| Dienstgruppenleitung der Direktion K   | Frank Gelgson (EKHK), Wilson Wentzlaf (PRA)                             |
+
+## Bereiche und Stellen
+
+| Bereich                                  | Personen / Unterbereiche                                                                                                    |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Bereichsleitung der 51ten Fliegerstaffel | Maik Brenner                                                                                                                |
+| Ausbilder der 51ten FS                   | Maik Brenner, Justin King                                                                                                   |
+| Ermittlungsgruppe Autoposer              | Sebastian Mayer                                                                                                             |
+| Ausbilder der EGAP                       | Sebastian Mayer, Dr. Felix Kontrast M.Sc.                                                                                   |
+| Hundestaffel                             | Dr. Felix Kontrast M.Sc., Klara Baker                                                                                       |
+| Diensthundeführer                        | DHF                                                                                                                         |
+| Polizeiärztlicher Dienst / PÄD           | Dr. Max Maier, Cale Brickson                                                                                                |
+| Ärztliche Leitung                        | N.N.                                                                                                                        |
+| Ausbilder PÄD                            | N.N.                                                                                                                        |
+| Fortbildung                              | N.N.                                                                                                                        |
+| Ausbilder Fortbildung                    | N.N.                                                                                                                        |
+| Innendienst                              | Jackson Baker                                                                                                               |
+| Ausbilder Dispo                          | Jackson Baker                                                                                                               |
+| Karrierecenter / Personalabteilung       | Max Weser (Personalleiter), Thorsten Backhaus (Leitung Bewerberverwaltung), Franz Richter LLM. (Leitung Bewerberverwaltung) |
+| Verwaltungsbeamte                        | —                                                                                                                           |
+| Personalwerber                           | —                                                                                                                           |
+
+## Leitung Aus- und Fortbildung
+
+| Funktion                                | Personen                                              |
+| --------------------------------------- | ----------------------------------------------------- |
+| Leitung der Aus- und Fortbildung (LAFP) | Thorsten Backhaus (DBP B2), Franz Richter LLM. (EKHK) |
+
+## Laufbahnausbildung
+
+| Bereich               | Personen                                                                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bereichsleitung m. D. | Dr. Felix Kontrast M.Sc., Patrick Schmidt                                                                                                   |
+| Prüfer m. D.          | —                                                                                                                                           |
+| Ausbilder m. D.       | —                                                                                                                                           |
+| Bereichsleitung g. D. | John Cooper, Franz Richter LLM.                                                                                                             |
+| Prüfer g. D.          | —                                                                                                                                           |
+| Ausbilder g. D.       | John Cooper, Dr. Felix Kontrast M.Sc., Frank Gelgson LLM., Maik Brenner                                                                     |
+| Bereichsleitung h. D. | N.N.                                                                                                                                        |
+| Höherer Dienst        | Peter Steif, Max Bäcker, Thorsten Backhaus, Max Weser, Jannis Schröder, Dr. Theodor Meier, Arthur Steigenberg, John Cooper, Wilson Wentzlaf |
+
+---
+
+# Führungsdienst
+
+| Person            | Funktion                          |
+| ----------------- | --------------------------------- |
+| Peter Steif       | Polizeipräsident                  |
+| Max Weser         | Polizeivizepräsident              |
+| Max Bäcker        | Polizeivizepräsident              |
+| Thorsten Backhaus | Direktor beim Polizeipräsidium B3 |
+
+---
+
+# Eid
+
+(1)
+„Ich schwöre, dass ich das mir übertragene Amt nach bestem Wissen und Können verwalten, Verfassung und Gesetze befolgen und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.“
+
+(2)
+Der Eid kann auch ohne die Worte „So wahr mir Gott helfe“ geleistet werden.
+
+---
+
+# Ablauf Ausbildung
+
+| Ausbildungsabschnitt                    | Art              |
+| --------------------------------------- | ---------------- |
+| Grundausbildung                         | Theorie / Praxis |
+| Leitstellenausbildung                   | Theorie / Praxis |
+| Fahrzeugkundenausbildung & Praxisteil 1 | Theorie / Praxis |
+| Einsatzrechtslehre & Praxisteil 2       | Theorie / Praxis |
+| Prüfungsvorbereitung                    | —                |
+| Laufbahnprüfung                         | Theorie          |
+| Laufbahnprüfung                         | Praxis           |
+
+**Eine Ausbildung pro Tag!**
+
+---
+
+# Begrifflichkeiten
+
+| Begriff         | Bedeutung                                                                                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OWiG            | Ordnungswidrigkeit                                                                                                                                                     |
+| Beschuldigter   | Person, die einer Straftat oder Ordnungswidrigkeit beschuldigt wird.                                                                                                   |
+| Geschädigter    | Person, die Opfer einer Straftat oder Ordnungswidrigkeit wurde.                                                                                                        |
+| Zeuge           | Person, die eine Straftat oder Ordnungswidrigkeit beobachtet hat.                                                                                                      |
+| Tatverdächtiger | Verdächtiger in Straftat, bis zu dem Moment der Verurteilung.                                                                                                          |
+| Täter           | Person, die rechtskräftig verurteilt wurde.                                                                                                                            |
+| Strafantrag     | Strafantrag wird aufgrund von Antragsdelikten wie Diebstahl oder einer Beleidigung von privaten Personen gestellt, also vom Geschädigten, und nur auf Antrag verfolgt. |
+| Strafanzeige    | Strafanzeige wird von einer Behörde oder einer privaten Person aufgrund einer Straftat gestellt und muss verfolgt werden.                                              |
+
+---
+
+# Strafrecht `*`
+
+## Straftatbestand
+
+Um einer Person eine Straftat vorzuwerfen, muss die Person die Straftatbestände der jeweiligen Tat erfüllen, wie sie im entsprechenden Gesetzbuch aufgeführt sind.
+
+## Gefahr im Verzug
+
+Gefahr im Verzug bedeutet, dass eine auf gesetzeswegen vorgesehene Anordnung nicht eingeholt werden kann, ohne dass der Zweck der Maßnahme gefährdet wird.
+
+Es würde eine Gefahr bestehen, wenn ich meine Handlung verzögere. Wenn also Beweismittel ohne mein sofortiges Einschreiten verloren gehen würden oder ein Schaden ohne mein sofortiges Einschreiten entstehen würde.
+
+Es ist bei Möglichkeit immer zu prüfen, ob ein Richter telefonisch erreichbar ist, zum Beispiel für einen Durchsuchungsbeschluss.
+
+## Vorsatz
+
+Mit Vorsatz handelt, wer mit Absicht, mit Wissen oder mit billigender Inkaufnahme des Erfolgseintritts handelt. Das ist bedingter Vorsatz.
+
+## Dokumentation
+
+Jeder Tatvorwurf muss schriftlich in der CopNet-Akte beziehungsweise in der Einsatzübersicht so festgehalten werden, dass er zweifelsfrei bestätigt werden kann.
+
+Die Justiz muss aus dem Bericht herauslesen können, warum zum Beispiel eine Körperverletzung vorgeworfen wird.
+
+Eine saubere und ordentlich geführte Dokumentation ist daher unabdinglich.
+
+## Fahrlässig
+
+Fahrlässigkeit ist das außer Acht lassen der erforderlichen Sorgfaltspflicht aus Sicht eines objektiven Dritten.
+
+Das Eintreten des Erfolges muss für den Einzelnen subjektiv vorhersehbar gewesen sein können.
+
+## Betreten von Geländen
+
+Das Betreten von Privatgrundstücken ist nur in folgenden Situationen gegeben:
+
+* Ein Einverständnis liegt vor.
+* Zur Gefahrenabwehr bei Gefahr im Verzug, zum Beispiel wenn dort Straftaten begangen oder vorbereitet werden, Gefahr für Leib und Leben oder Sachen von bedeutendem Wert besteht.
+* Ein Beschluss liegt vor.
+
+Das unbegründete Betreten von Wohnungen und verschlossenen Grundstücken ist untersagt.
+
+Bei hoheitlichen Tätigkeiten hat man auch auf Privatgeländen Weisungsbefugnis.
+
+Eine Flucht vor einer Verkehrskontrolle kann ebenfalls auf einem Privatgrundstück fortgesetzt werden.
+
+---
+
+# Waffenrecht `*`
+
+## Wer darf eine Waffe bei sich führen?
+
+Verdeckt.
+
+* Personen, die eine gültige Waffenbesitzkarte bei sich führen.
+* Personen, die eine Berufwaffenträger-Lizenz besitzen.
+* Personen, die gemäß § 28 WaffG befreit sind, zum Beispiel Polizeibeamte.
+
+## Sind Waffenanbauteile erlaubt?
+
+Für zivile Personen, die nicht unter § 28 WaffG fallen, sind jegliche Waffenanbauteile verboten und strafbar.
+
+## Holster in der Öffentlichkeit
+
+Das Tragen eines Holsters in der Öffentlichkeit fällt unter § 24c WaffG und ist somit strafbar.
+
+## Wer darf eine Waffe offen führen?
+
+* Personen, die eine Berufwaffenträger-Lizenz besitzen mit entsprechender Genehmigung.
+* Personen, die gemäß § 28 WaffG befreit sind, zum Beispiel Polizeibeamte.
+
+## Welche Waffen sind mit einer Waffenbesitzkarte erlaubt?
+
+* Einzelfeuer-Handfeuerwaffen
+* Schreckschusswaffen
+* Messer mit bis zu einer Klingenlänge von 12 cm
+* explosionsgefährliche Stoffe zum Sprengen für gewerbliche Zwecke
+
+## Schussabgabe in Notwehr
+
+Die Schussabgabe durch Zivilisten unterliegt einer strengen Überprüfung.
+
+Der Vorwurf wird erst fallengelassen, wenn der Beweis für eine Handlung in Notwehr erbracht ist.
+
+---
+
+# Eingriffsrecht `*`
+
+## Verhältnismäßigkeit
+
+Von mehreren möglichen und geeigneten Maßnahmen hat die Polizei diejenige zu treffen, die den Einzelnen und die Allgemeinheit voraussichtlich am wenigsten beeinträchtigt.
+
+Eine Maßnahme darf nicht zu einem Nachteil führen, der zu dem erstrebten Erfolg erkennbar außer Verhältnis steht.
+
+Eine Maßnahme ist nur solange zulässig, bis ihr Zweck erreicht ist oder sich zeigt, dass er nicht erreicht werden kann.
+
+Beispiel: Eine Überstellung in Gewahrsam, weil die Person dem Platzverweis nach erster Ansprache nicht nachgekommen ist.
+
+## Legalitätsprinzip
+
+Der Polizeibeamte muss bei Kenntnis einer Straftat dieser nachgehen, unabhängig davon, ob Familie, Freund oder Partner betroffen ist.
+
+In diesen Fällen wird jede Person gleich behandelt, sonst würde man sich selbst strafbar machen.
+
+## Unschuldsvermutung
+
+Ist der Tatverdacht durch mangelnde Beweise nicht gesichert, wird im Sinne des Beschuldigten gehandelt.
+
+Liegen also zu wenig oder unzureichende Beweise vor, muss die Anklage fallengelassen werden und die Person muss wieder entlassen werden.
+
+Nur wichtig für die Staatsanwaltschaft.
+
+## Anhörung
+
+Jeder hat das Recht, angehört zu werden, ganz gleich, ob es sich um einen Zeugen, Betroffenen oder Beschuldigten handelt.
+
+Vor der Anhörung ist jede Person über seine Rechte zu belehren sowie die Identität festzustellen.
+
+## Eingriff in die Grundrechte
+
+Als Polizeibeamter greifen Sie täglich in die Grundrechte des Menschen ein.
+
+Beispiele:
+
+* bei einer Festnahme
+* bei einer Personenabfrage bei der Leitstelle
+
+Hinterfragen Sie dadurch stets Ihr Handeln im Sinne der Verhältnismäßigkeit.
+
+## Opportunitätsprinzip
+
+Der Polizeibeamte darf im Rahmen seiner Aufgabe bei OWiGs abwägen, ob er bei dieser jetzt handelt oder es bei einer mündlichen Verwarnung belässt.
+
+Es sollte stets die Verhältnismäßigkeit im Vordergrund stehen.
+
+Nicht bei Straftaten anwendbar.
+
+---
+
+# Strafprozessordnung `*`
+
+## Belehrung
+
+Der Beschuldigte muss vor jeder Aussage, die er tätigt, über seine Rechte belehrt werden.
+
+Die Belehrung ist direkt nach der Anlage der Handfesseln beziehungsweise bei dem Erreichen eines Verdachts einer Straftat oder einer Ordnungswidrigkeit zu erfolgen.
+
+Wenn das mal vergessen wurde, sind die Personen jedoch nicht freizulassen. Die Belehrung sollte dann unverzüglich nachgeholt werden.
+
+## Vorläufige Festnahme
+
+Wird jemand auf frischer Tat erwischt, so ist, wenn er der Flucht verdächtig ist oder seine Identität nicht sofort festgestellt werden kann, jedermann befugt, auch die Polizei bis zur Identitätsfeststellung, diese Person auch ohne richterliche Anordnung vorläufig festzunehmen.
+
+Die Staatsanwaltschaft und die Beamten des Polizeidienstes sind bei Gefahr im Verzug auch dann zur vorläufigen Festnahme befugt, wenn die Voraussetzungen eines Haftbefehls vorliegen.
+
+Ist relevant, ob jemand weiter festgenommen wird, sobald seine Identität festgestellt wurde.
+
+Später dazu in P2 und der Einsatzlehre mehr.
+
+## Recht auf Rechtsbeistand
+
+Personen haben während eines Strafverfahrens das Recht auf Rechtsbeistand, dieser muss offiziell eine Anwaltslizenz besitzen und vorweisen können.
+
+Der Umgang muss jedoch auch praktisch umsetzbar sein.
+
+Wenn Sie sich in einer Maßnahme befinden oder gerade die Lage unübersichtlich ist, also nachvollziehbare Gründe dafür haben, können Sie den Anwalt erst einmal auf später verweisen.
+
+Einen Anwalt unangekündigt völlig unpraktikabel in die Dienststelle zu lassen, sieht das Gesetz nicht vor.
+
+Wenn Sie gerade den Bericht schreiben und es ruhig ist, sollten und müssen Sie den Anwalt aber zu seinem Mandanten lassen.
+
+## Gewahrsam von Störern
+
+Kommt eine Person zum Beispiel dem Platzverweis nicht nach, kann diese Person in Gewahrsam überbracht werden, mit einer Verweildauer von bis zu 30 Minuten.
+
+Die Personen sollten aber nur so lange wie nötig, heißt bis zum Abschluss der Maßnahme, im Gewahrsam verbleiben.
+
+Jegliche Gegenstände, die nicht gegen andere Gesetze verstoßen, bekommt die Person im Anschluss wieder.
+
+## Beweise
+
+Beweise müssen in jedem Fall gesichert werden, im besten Fall in Form von Bodycam-Aufnahmen, Beweismitteln und Zeugen- beziehungsweise Geschädigtenaussagen.
+
+Diese sind der Akte beizufügen.
+
+Bei Aussagen ist zwingend die Identität sowie eine telefonische und schriftliche Kontaktmöglichkeit zu dokumentieren.
+
+---
+
+# Strafprozessordnung `*`
+
+## Staatsanwaltschaft
+
+Die Staatsanwaltschaft ist über jede Strafermittlung, also Aufnahme eines Strafverfahrens, Festnahme etc., zu informieren gemäß § 115 StPO, da diese Herrin des Ermittlungsverfahrens ist.
+
+Bei Maßnahmen, die kein Strafverfahren beinhalten, ist die Staatsanwaltschaft nicht zu informieren.
+
+---
+
+# Belehrung
+
+## Ordnungswidrigkeit
+
+* Ansprache mit Tatvorwurf
+* Recht auf Aussageverweigerung
+
+## Leitfaden OWiG
+
+„Sie sind Betroffener eines Ordnungswidrigkeitenverfahrens, aufgrund des [VORWURF]. Sie müssen sich zu diesem Vorwurf nicht äußern, können es aber. Möchten Sie sich dazu äußern?“
+
+## Strafverfahren
+
+* Ansprache mit Tatvorwurf
+* Recht auf Aussageverweigerung
+* Recht auf Anwalt, muss praktikabel umsetzbar sein
+* Recht auf Beweisanträge, macht StA
+* Recht auf schriftliche Äußerung, macht StA
+
+## Leitfaden Strafverfahren
+
+„Sie sind Beschuldigter eines Strafverfahrens, bezüglich des [VORWURF]. Sie müssen sich zu diesem Vorwurf nicht äußern, können es aber. Sie haben das Recht auf einen Anwalt. Sie haben das Recht auf Beweisanträge. Sie können sich auch zu einem späteren Zeitpunkt schriftlich zu dem Sachverhalt äußern. Möchten Sie sich dazu äußern?“
+
+---
+
+# Polizeigesetz `*`
+
+## Aufgaben der Polizei
+
+* Gefahrenabwehr, Verhütung von Straftaten
+* Strafverfolgung
+* Verfolgung von Ordnungswidrigkeiten
+* Überwachung des Straßenverkehrs
+
+## Identitätsfeststellung
+
+Die Polizei darf die Identität feststellen von Personen:
+
+* bei der Abwehr von Gefahren
+* wenn sie sich an Orten aufhält, wo sich gesuchte Straftäter befinden, Straftaten begangen, geplant oder vorbereitet werden
+* bei Verdacht auf eine OWiG oder Straftat
+* an einer polizeilichen Kontrollstelle
+
+Sollte eine Identitätsfeststellung nicht oder nur schwer durchführbar sein, zum Beispiel viele Störer oder Trubel, darf die Person festgehalten werden und für die Identitätsfeststellung zur Wache verbracht werden.
+
+Hier kann dann auch, wenn erforderlich und nötig ist, eine ED-Behandlung durchgeführt werden.
+
+## Platzverweis
+
+Der Polizeibeamte darf Personen einen Platzverweis aussprechen.
+
+Dieser muss sowohl örtlich als auch zeitlich begrenzt sein.
+
+Ein Platzverweis kann an jedem Ort gegenüber jeder Person ausgesprochen werden, die eine Maßnahme oder die öffentliche Ordnung oder Sicherheit gefährdet oder stört.
+
+Wenn ein Platzverweis ausgesprochen wird, muss das deutlich kommuniziert werden.
+
+Wenn die Person dem Platzverweis nicht nachkommt, wird diese nochmals darauf hingewiesen mit der Androhung des Gewahrsams.
+
+Sollte dem weiter nicht nachgekommen werden, wird die Person in Gewahrsam genommen.
+
+## Sicherstellung Gegenstände
+
+Die Polizei darf eine Sache sicherstellen:
+
+1. um eine gegenwärtige Gefahr abzuwehren,
+2. wenn sie von einer Person mitgeführt wird, die nach diesem Gesetz oder anderen Rechtsvorschriften festgehalten wird und die Sache verwendet werden kann, um:
+
+   * sich zu töten oder zu verletzen,
+   * Leben oder Gesundheit anderer zu schädigen,
+   * fremde Sachen zu beschädigen,
+   * die Flucht zu ermöglichen oder zu erleichtern,
+3. zur Aufklärung von Straftaten, also als Beweismittel.
+
+## Unmittelbarer Zwang
+
+### Definition
+
+Unmittelbarer Zwang bedeutet körperliche Gewalt, um bei Widerstand die polizeilichen Maßnahmen mit Zwang durchzusetzen.
+
+Unmittelbarer Zwang kommt zur Anwendung, wenn andere Zwangsmittel nicht in Betracht kommen oder keinen Erfolg versprechen oder unzweckmäßig sind.
+
+Er muss sofort eingestellt werden, wenn der Erfolg eingetreten ist.
+
+### Ankündigung
+
+Unmittelbarer Zwang sollte in der Regel angekündigt werden.
+
+Bei akuter Gefahr sowie wenn die Umstände es nicht zulassen, weil das Zwangsmittel sofort angewendet werden muss, ist keine Ankündigung erforderlich.
+
+---
+
+# Polizeigesetz
+
+## Gewahrsam
+
+Die Polizei kann Personen in Gewahrsam nehmen, wenn die wichtigsten Voraussetzungen vorliegen:
+
+### a)
+
+Wenn es zum Schutz der Person gegen eine Gefahr für Leib oder Leben erforderlich ist.
+
+Insbesondere, wenn die Person sich erkennbar in einem die freie Willensbestimmung ausschließenden Zustand oder sonst in hilfloser Lage befindet.
+
+Beispiele:
+
+* selbstmordgefährdet
+* stark alkoholisiert
+* bewusstlos
+
+### b)
+
+Wenn es unerlässlich ist, um die unmittelbar bevorstehende Begehung oder Fortsetzung einer Straftat oder einer Ordnungswidrigkeit von erheblicher Bedeutung für die Allgemeinheit zu verhindern.
+
+### c)
+
+Wenn es unerlässlich ist, um ein Platzverbot durchzusetzen.
+
+Wichtig: Hier geht es um den Gewahrsam gemäß dem Polizeigesetz. Das hat nichts mit einer vorläufigen Festnahme oder U-Haft zu tun.
+
+---
+
+## Durchsuchung von Personen
+
+Eine Durchsuchung der Person ist zulässig, wenn:
+
+a. sie nach diesem Gesetz oder anderen Rechtsvorschriften in Gewahrsam genommen werden kann,
+
+b. Tatsachen die Annahme rechtfertigen, dass sie Sachen mit sich führt, die sichergestellt werden dürfen,
+
+c. sie sich erkennbar in einem die freie Willensbestimmung ausschließenden Zustand oder sonst in hilfloser Lage befindet.
+
+Beispiele:
+
+* selbstmordgefährdet
+* stark alkoholisiert
+* bewusstlos
+
+f. sie der Durchsuchung zustimmt,
+
+g. sie sich in einer nach § 23 OWiG definierten Zone aufhält.
+
+Die Polizei kann eine Person, deren Identität nach diesem Gesetz oder anderen Rechtsvorschriften festgestellt werden soll, nach Waffen, anderen gefährlichen Werkzeugen und Explosivmitteln durchsuchen, wenn das nach den Umständen zum Schutz des Polizeivollzugsbeamten oder eines Dritten gegen eine Gefahr für Leib oder Leben erforderlich ist.
+
+Dasselbe gilt, wenn eine Person nach anderen Rechtsvorschriften vorgeführt oder zur Durchführung einer Maßnahme an einen anderen Ort gebracht werden soll.
+
+Die Polizei darf bei einer Identitätsfeststellung auch eine Person nach ihren Ausweisdokumenten durchsuchen, wenn diese vorgibt, keine Ausweisdokumente dabei zu haben.
+
+---
+
+## Durchsuchung von Sachen, auch Fahrzeugen
+
+Die Polizei kann eine Sache durchsuchen, wenn:
+
+1. sie von einer Person betrieben oder mitgeführt wird, die durchsucht werden darf,
+
+2. Tatsachen die Annahme rechtfertigen, dass sich in ihr eine Person befindet, die:
+
+   * in Gewahrsam genommen werden darf,
+   * widerrechtlich festgehalten wird,
+   * hilflos ist,
+
+3. Tatsachen die Annahme rechtfertigen, dass sich in ihr eine andere Sache befindet, die sichergestellt werden darf.
+
+Beispiel:
+
+Bei einer Person, bei der man vermutet, weil Tatsachen die Annahme begründen, dass sie Gegenstände dabeihat, die sichergestellt werden dürfen, zum Beispiel zur Aufklärung einer Straftat, siehe Folie zuvor, darf eine Durchsuchung der Person auch ohne richterlichen Beschluss durchgeführt werden.
+
+Wenn er ein Fahrzeug gerade führt, dann darf auch dieses Fahrzeug durchsucht werden.
+
+---
+
+# Einsatzlehre
+
+## Grundausbildung
+
+---
+
+# Bedrohliche Einsatzlagen
+
+Bedrohliche Einsatzlagen bedeuten:
+
+**Sie werden aktiv bedroht oder sogar beschossen.**
+
+## Eigenschutz
+
+* Deckung suchen
+* Kollegen evakuieren
+* Nicht unüberlegt bewegen
+* Deckung nicht verlassen
+
+## Weitere Maßnahmen
+
+* Notruf absetzen
+
+  * Panik-Knopf drücken
+  * Notrufmeldung abgeben
+* Beschuss aus Deckung erwidern
+* Wenn möglich, sich zurückziehen.
+
+Hinweis:
+
+**Ein Eigenunfall oder ein Hummel-Absturz ist kein Grund für einen Panik-Knopf.**
+
+---
+
+# Kontrolle
+
+## Ansprache
+
+* Erklärung der Art der Personenkontrolle
+* Allgemein oder anlassbezogen
+* Direkte Ansprache mit Sachverhalt
+
+## Identitätsfeststellung
+
+* Nötig bei jeder polizeilichen Maßnahme
+* Muss ein Personalausweis sein
+* Datenabfrage über CopNet
+
+## Hinweise auf Straftat vorliegen?
+
+* Treffer auf eine Fahndung im CopNet sowie auf der internen Website?
+* Auf Personenbeschreibung zutreffend?
+
+## Durchsuchung möglich?
+
+* Mit hinreichendem Tatverdacht möglich
+* Mit Tatsachen, die auf Gegenstände sprechen, die sichergestellt werden dürfen
+* Mit Einverständnis des Gegenübers möglich
+
+## Eventuell Strafe ausstellen
+
+Bei entsprechender Lage kann eine Strafe beziehungsweise ein Vorgang ausgestellt werden.
+
+## Beispiel 1
+
+„Guten Tag, die Landespolizei Rheinstadt mit einer Allgemeinen Personenkontrolle, haben Sie ihren Ausweis dabei?“
+
+## Beispiel 2
+
+„Guten Tag, die Landespolizei Rheinstadt. Auf Sie trifft eine Beschreibung zu einem Ladenraub zu.“
+
+## Aufstellung Personenkontrolle
+
+| Position | Bedeutung                              |
+| -------- | -------------------------------------- |
+| TV       | Tatverdächtiger / kontrollierte Person |
+| 1        | Beamter 1                              |
+| 2        | Beamter 2                              |
+
+Grundidee aus der Grafik:
+
+* TV steht zentral.
+* Beamter 1 steht versetzt seitlich.
+* Beamter 2 steht versetzt gegenüber beziehungsweise absichernd.
+* Keine enge Frontalkontrolle ohne Absicherung.
+
+# Identitätsfeststellung
+
+Die Identität von beteiligten Personen muss immer festgestellt werden. Dafür ist ein Lichtbildausweis erforderlich.
+
+Wenn kein Lichtbildausweis vorhanden ist:
+
+* Abfrage im CopNet über Name, Geburtstag und D-Funk.
+* Gibt es Unstimmigkeiten, dann FAST-ID am Kfz oder Verbringung zur Wache.
+
+Die Identität muss zwingend dokumentiert werden.
+
+Eine erkennungsdienstliche Behandlung kann durchgeführt werden, wenn die Identitätsfeststellung nicht anders möglich ist.
+
+Während der ED-Behandlung sollte die Person keine Handschuhe und keine Maske tragen.
+
+Im PP-ED-Raum ist der Fotoapparat zu nutzen.
+
+**Wichtiger Hinweis:**
+Personen, bei denen eine Identitätsfeststellung zulässig ist, sind verpflichtet, Namen, Geburtsdatum, Staatsangehörigkeit und D-Funk beziehungsweise Postanschrift mitzuteilen.
+
+---
+
+# Personendurchsuchung
+
+## Wann darf ich eine Person durchsuchen?
+
+### Dringender Tatverdacht?
+
+Beispiele:
+
+* Ladendieb?
+* Waffenhandel?
+* Mit einer Waffe gesehen?
+
+**Eine allgemeine Verkehrskontrolle ist zum Beispiel kein dringender Tatverdacht.**
+
+### Eigenschutz?
+
+Beispiele:
+
+* bei Festnahme
+* Einlass ins Präsidium, hinter den Metalldetektor
+
+### Keiner der oben genannten Gründe?
+
+Dann nur mit Einverständnis der Person.
+
+---
+
+## Was wird abgenommen?
+
+* Waffen oder Gegenstände, die als Waffe benutzt werden können.
+* Jegliche Kommunikationsmittel.
+* Illegale Gegenstände.
+* Verpflegung verbleibt am Beschuldigten.
+
+---
+
+## Eigenschutz bei der Durchsuchung
+
+* Personen werden nur zu zweit durchsucht.
+* Ein Beamter sichert mit Hand an der Waffe, der andere durchsucht mit Handschuhen.
+* Die Person wird immer mit dem Gesicht zu einem Gegenstand gestellt, zum Beispiel Wand oder Fahrzeug.
+* Die Person muss die Hände heben.
+* Leistet die Person Widerstand, wird sie in Handfesseln gesetzt.
+
+**Abstand wahren.**
+**Auf hastige Bewegungen oder auffälliges Verhalten achten.**
+
+---
+
+# Zeugenaussagenaufnahme
+
+1. Identitätsfeststellung
+2. Belehrung
+
+   * wahrheitsgemäße Angaben
+   * keine Falschaussagen
+     Hinweis: Nicht belehren, dass diese strafbar sind. Falschaussagen sind erst vor Gericht strafbar.
+   * Recht auf Verweigerung bei Verwandtschaftsgrad
+   * Recht auf Verweigerung bei Selbstbelastung
+3. Täterbeschreibung
+4. Tatort und Zeitpunkt
+5. Tathergang
+6. Verletzungen?
+7. Sachen durch Täter abgenommen und wie?
+8. Kontaktmöglichkeit dokumentieren
+
+---
+
+# Schusswaffengebrauch
+
+**Der Schusswaffengebrauch ist immer das allerletzte Mittel der Wahl.**
+
+## Ankündigung
+
+* Eine Schussabgabe muss angekündigt werden, bei akuter Lebensgefahr jedoch nicht.
+* Einmalige verbale Ankündigung.
+* Es können Warnschüsse in die Luft abgegeben werden.
+
+## Notwendige Indikationen
+
+* Eine Indikation, zum Beispiel akute Gefahr für Leib und Leben, muss vorliegen, um eine Schussabgabe zu rechtfertigen.
+
+## Trefferflächen
+
+* Zielgenauigkeit sollte bevorzugt auf den Brustkorb gerichtet sein, um eine effektive Stoppwirkung zu erzielen.
+
+---
+
+# Umgang mit Schusswaffen
+
+## Grundregeln im Umgang mit Schusswaffen
+
+1. Die Waffe ist stets als geladen zu betrachten, selbst wenn sie nicht geladen ist.
+2. Die Mündung zeigt immer nach vorne und unten.
+3. Zielen Sie niemals auf jemanden, auf den Sie nicht auch schießen möchten.
+4. Der Finger befindet sich niemals in der Abzugsvorrichtung, es sei denn, der Schuss wird unmittelbar abgegeben.
+
+Außerhalb des Dienstes ist die Waffe sicher und entladen im Spind zu lagern.
+
+Zu Dienstbeginn wird die Waffe durchgeladen und schussbereit gemacht.
+
+**Die Waffe wird nur als letztes Mittel angedroht oder genutzt.**
+
+Der Gebrauch von Schusswaffen wird nicht gegenüber unbewaffneten oder flüchtenden Verdächtigen angewendet.
+
+Auf fliehende Fahrzeuge wird nicht geschossen, da die Gefahr, Unschuldige oder Geiseln zu treffen, zu groß ist.
+
+**Ausnahme:**
+Es wird bei einer Verfolgungsfahrt aus dem fliehenden Fahrzeug auf euch geschossen. Dann dürft ihr auf die Reifen des fliehenden Fahrzeugs schießen.
+
+---
+
+## Umgang mit dem DEIG
+
+DEIG = Distanz-Elektro-Impuls-Gerät.
+
+### Benutzung bei:
+
+* körperlichen Auseinandersetzungen
+* fliehenden Tatverdächtigen
+* Unbewaffneten
+
+### Ausführung
+
+* Ankündigung
+* Zielgenauigkeit auf den Brustkorb
+* direkte Festsetzung mit Handschellen
+* auf Verletzungen überprüfen
+
+---
+
+# Einsatzmittel
+
+## Grundausbildung
+
+Übergangsfolie zum Themenblock Einsatzmittel.
+
+---
+
+# Einsatzmittel
+
+| Kategorie        | Mittel                       | Angaben                                                                                      |
+| ---------------- | ---------------------------- | -------------------------------------------------------------------------------------------- |
+| Nahdistanzmittel | Reizstoff-Sprühgerät         | Füllmenge: 500 ml; Wirkradius: ca. 5 Meter; Wirkdauer abhängig von der Dauer des Sprühstoßes |
+| Nahdistanzmittel | Leichte körperliche Gewalt   | gezielte Schläge und Tritte; Tackeln des Gegenübers                                          |
+| Dienstwaffe      | WM B99                       | Kaliber 9 mm; Magazingröße 12 Schuss; Feuermodus Einzelfeuer                                 |
+| Dienstwaffe      | WM MB5D                      | Kaliber 9 mm; Magazingröße 30 Schuss; Feuermodus Einzelfeuer, Salven, Dauerfeuer             |
+| Nahdistanzmittel | Distanz-Elektro-Impuls-Gerät | Reichweite ca. 8 Meter; Dauer des Stromstoßes ca. 5 Sekunden                                 |
+| Nahdistanzmittel | Mehrzweckstock               | teleskopierbar; maximal 5 Schläge bis zur großen Schädigung des Gegenübers                   |
+
+---
+
+# Dienstausstattung
+
+Alle Gegenstände sind nach dem Dienst im persönlichen Spind zu lagern.
+
+Anbauteile, die für Sie nicht erlaubt sind, werden an den Waffen nicht genutzt.
+
+Ausnahme beziehungsweise erlaubter Zusatz:
+
+* Sie dürfen die Taschenlampe an der Waffe nur nutzen.
+
+## Mindest-Ausstattung
+
+| Anzahl | Gegenstand            |
+| -----: | --------------------- |
+|     1x | Walther P99           |
+|     1x | Taser                 |
+|     1x | Pfefferspray          |
+|     1x | Schlagstock           |
+|     1x | Taschenlampe          |
+|     1x | Weste                 |
+|   200x | 9 mm Munition         |
+|     1x | Handschellenschlüssel |
+|     5x | Handschellen          |
+|     1x | Funkgerät             |
+
+---
+
+# Asservaten
+
+## Vorgehen
+
+* Zahl des letzten Faches überprüfen, auch wenn es automatisch erfolgt.
+* Nächstes Fach auswählen und Asservaten ablegen.
+* Ein Fach, ein Täter.
+* Foto der Asservate machen, mit Foto für Besonderheiten, zum Beispiel manipulierte Seriennummer.
+* Foto im System eintragen.
+
+## Systemfelder aus der Folie
+
+| Feld                 | Bedeutung                     |
+| -------------------- | ----------------------------- |
+| Schließfachnummer    | Nummer des Asservatenfachs    |
+| Fall                 | Zugehöriger Einsatz / Vorgang |
+| Tatverdächtiger / TV | Name des Tatverdächtigen      |
+| Bilder               | Foto der Asservate            |
+| Erstellt von         | eintragender Beamter          |
+| Erstellt am          | Datum / Uhrzeit               |
+
+**Wichtiger Hinweis:**
+Die Asservatenkammer ist videoüberwacht und es kann jederzeit strafrechtliche Folgen haben, wenn Sie sich an der Asservatenkammer bedienen.
+
+---
+
+# Funk-Grundlagen
+
+## Grundausbildung
+
+Übergangsfolie zum Themenblock Funk.
+
+---
+
+# Statusmeldung
+
+| Status | Meldung                                                                      |
+| -----: | ---------------------------------------------------------------------------- |
+|      1 | Frei auf Funk                                                                |
+|      2 | Frei auf Wache                                                               |
+|      3 | Einsatz übernommen – auf Anfahrt                                             |
+|      4 | Einsatzort an – am Einsatzort                                                |
+|      5 | Sprechwunsch                                                                 |
+|      6 | Nicht einsatzbereit                                                          |
+|      7 | Gebunden, zum Beispiel in Abhandlung, Gefangenentransport oder Ähnliches     |
+|      8 | In Einsatzlage, zum Beispiel Verfolgungsfahrt, nicht stationäre Einsatzlagen |
+|      9 | Verkehrskontrolle                                                            |
+|      0 | Priorisierter Sprechwunsch                                                   |
+
+---
+
+# Grundlagen Funkgerät
+
+## Sprechwunsch
+
+Ein verbaler Sprechwunsch wird nur in Ausnahmesituationen bearbeitet.
+
+Ansonsten wird ein Sprechwunsch ausschließlich über die Tasten **5** oder **0** an die Leitstelle übermittelt.
+
+Erst dann, wenn Sie eine Sprechaufforderung erhalten haben, dürfen Sie sprechen.
+
+## Einteilung
+
+Um eingeteilt zu werden, muss man sich auf das Fahrzeug **„in Einteilung“** geben.
+
+## Verkehrskontrolle
+
+Bei Verkehrskontrollen wird die Taste **9** gedrückt. Darauf erfolgt ein Funkspruch mit Standort, Fahrzeugtyp und Besonderheiten.
+
+## Notruf über Panik-Knopf
+
+Notruf-Abgabe über Panik-Knopf:
+
+* 🟠 Oranger Knopf mit Dreieck im Kreissymbol.
+* Es taucht ein rotes Ausrufezeichen auf jedem Funkgerät auf.
+* Es folgt eine Notrufmeldung mit relevanten Informationen:
+
+  * Einheit
+  * Standort
+  * Lage
+* Der GPS-Standort wird automatisch an die Leitstelle übermittelt.
+
+---
+
+## Funkgerät-Bedienung / Symbole
+
+| Symbol / Taste | Funktion                                                             |
+| -------------- | -------------------------------------------------------------------- |
+| 🟠⚠️           | Panik-Knopf                                                          |
+| 📩             | Textnachrichten                                                      |
+| 🔕             | DME ausschalten                                                      |
+| 🔁             | Rufgruppenwechsel                                                    |
+| 📞             | Anruf annehmen                                                       |
+| 📵             | Anruf ablehnen                                                       |
+| 🗺️            | Route zum Einsatzort ein- und ausblenden                             |
+| ↩️📞           | Leitstelle-Rückruf                                                   |
+| 📟 Anzeige     | aktuelle Rufgruppe, aktueller Status oder Meldung von der Leitstelle |
+
+## Statusmeldung im Funk
+
+Statusmeldungen ersetzen die meisten Funkgespräche. Dadurch wird ein konzentrierter Funkverkehr erreicht.
+
+Einsätze werden ausschließlich mit **Status 3** übernommen. Daher ist eine Sprachmeldung nicht erforderlich.
+
+---
+
+# Funkgespräch
+
+## Aufbau eines Funkgesprächs
+
+* Ein Funkgespräch findet immer zwischen mindestens zwei Parteien statt.
+* Es wird durch eine Person eröffnet. Diese Person beendet es auch.
+* Jeder Funkspruch wird mit „Kommen“ beendet.
+* Jedes Funkgespräch wird mit „Ende“ beendet.
+* Bindewort ist **„von“**, nicht „für“ oder „an“.
+
+## Grundregeln im Funkverkehr
+
+* Höflichkeitsformen unterlassen, zum Beispiel „Bitte“, „Danke“, „Könnten Sie“.
+* Deutliche Aussprache.
+* Angemessenes Sprechtempo.
+* Abkürzungen verwenden, zum Beispiel VK oder RTW.
+* Personennamen und Amtsbezeichnungen vermeiden.
+* Teilnehmer werden nur mit Funkrufnamen angesprochen.
+* Alle Teilnehmer sind mit „Sie“ anzusprechen.
+* Privatgespräche sind zu unterlassen.
+* Laufende Funkgespräche werden nicht unterbrochen.
+
+**„So kurz wie möglich, so lang wie nötig.“**
+
+---
+
+# Funkrufnamen
+
+| Funkrufname            | Bedeutung                            |
+| ---------------------- | ------------------------------------ |
+| Arnold 41/XX           | Schutzpolizei-Beamter                |
+| Caesar 51/XX           | Leitungspersonal                     |
+| Condor 31/XX           | Kriminalpolizeibeamter               |
+| Bodo 42/XX             | Auszubildender                       |
+| Egon                   | Leitstelle                           |
+| Christa 11/XX          | Funkstreifenwagen                    |
+| Moritz 19/XX           | Kriminalpolizei-Streifenwagen        |
+| David 15/XX oder 20/XX | Funkstreifenwagen mit Sonderfunktion |
+| SEK X                  | Einsatzfahrzeug des SEK              |
+| Bravo XX               | Beamte des SEK Bravo-Zug             |
+| Charlie XX             | Beamte des SEK Charlie-Zug           |
+| Hummel X               | Polizeihubschrauber                  |
+
+---
